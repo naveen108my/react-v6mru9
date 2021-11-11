@@ -1,0 +1,15 @@
+* {
+  border: 0;
+}
+
+.header {
+  list-style-type: none;
+  display: flex;
+  background-color: rgb(26, 26, 165);
+}
+
+.header li {
+  padding: 10px;
+
+  color: rgb(79, 214, 25);
+}
